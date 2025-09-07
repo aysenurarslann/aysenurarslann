@@ -76,27 +76,6 @@ My journey is driven by curiosity, especially in emerging fields like **Turkish 
 
 ---
 
-## 🌱 Projects
-
-### 🌐 [Campground API](https://github.com/aysenurarslann/Campground-API)  
-Built a location-based web scraping and analytics platform using **FastAPI & PostgreSQL**. Automated data collection from campgrounds and exposed it via a RESTful API for geographic insights.
-
-### 📊 [SentimentScope](https://github.com/aysenurarslann/SentimentScope)  
-Performed sentiment analysis on **Turkish tweets** using fine-tuned BERT models and **LoRA**. Achieved **84% accuracy** in detecting public opinion trends.
-
-### 🐉 [Twelenium](https://github.com/aysenurarslann/Twelenium)  
-An ethical, API-free web scraper for collecting public tweets with keyword filtering and date ranges. Built with **Selenium & SQLite**, includes safety modules to prevent abuse.
-
-### 🔍 [VisioQuery](https://github.com/aysenurarslann/VisioQuery)  
-A multimodal AI system combining **YOLOv8 object detection** with **NLP-based search**, simulating **Retrieval-Augmented Generation (RAG)** principles. Input: image → Output: intelligent query resolution.
-
-### 🍎 [Fruit Ripeness Prediction](https://github.com/aysenurarslann/Fruit-Ripeness-Prediction)  
-Used **CARS + PCA** for dimensionality reduction on hyperspectral images. Trained **AlexNet & Random Forest** models to predict ripeness stages with **>90% accuracy**.
-
-### ☕ [Cafe-AI](https://github.com/aysenurarslann/Cafe-AI)  
-A chatbot-style app that recommends study-friendly cafés based on user preferences (Wi-Fi, noise, music). Uses **NLP**, **web scraping**, and geospatial data for personalized recommendations.
-
----
 
 ## 🎓 Education
 
