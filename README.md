@@ -87,10 +87,11 @@ Relevant Courses: AI, ML, Deep Learning, Software Engineering, Computer Networks
 
 ## 🏆 Certifications
 
-- Introduction to AI – BTK (2023)  
-- Introduction to NLP – BTK (2024)  
-- Security in Development – Techcareer (2024)  
-- Game Development with Unity – BTK (2022)
+- BursCamp Artificial Intelligence Program – Kairu, 2025
+- Security in Development – Techcareer, 2024
+- Introduction to NLP – BTK, 2024
+- Introduction to AI – BTK, 2023
+- Game Development with Unity – BTK, 2022
 
 ---
 
@@ -98,9 +99,9 @@ Relevant Courses: AI, ML, Deep Learning, Software Engineering, Computer Networks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayşenur-arslan)  
 [![GitHub](https://img.shields.io/badge/GitHub-181515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aysenurarslann)  
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aysenurarslan.vercel.app/)  
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aysenurarslan.me/)  
 📧 **Email:** arslan.nur.ayse@gmail.com  
-📱 **Phone:** +90 541 766 75 27
+
 
 📍 Selçuklu / Konya, Türkiye
 
