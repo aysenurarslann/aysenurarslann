@@ -1,7 +1,7 @@
 # Hi there, I'm Ayşenur Arslan 👋  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Aysenur+Arslan+👋;AI+Engineer+%F0%9F%A4%B8;NLP+%26+Computer+Vision+Enthusiast+🚀;Building+Impactful+AI+Solutions+💻)
 
-> 🌟 *"You have shown that you are determined by meeting all your project deadlines. You have improved your communication skills by giving presentations. You have shown your passion through your projects."* — Patrice
+
 
 ---
 
