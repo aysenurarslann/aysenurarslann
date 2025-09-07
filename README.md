@@ -111,6 +111,6 @@ Relevant Courses: AI, ML, Deep Learning, Software Engineering, Computer Networks
 
 I'm always excited to work on innovative AI projects, especially those involving **NLP in Turkish**, **multimodal systems**, or **ethical data practices**. Whether it's open-source contributions, research, or startup ideas — let’s build something meaningful together.
 
-> "You have enjoyed working on topics that are new or secret in your workplace because it motivates you." — Patrice
+
 
 Let’s turn curiosity into impact. 🚀
