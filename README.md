@@ -103,7 +103,7 @@ Relevant Courses: AI, ML, Deep Learning, Software Engineering, Computer Networks
 📧 **Email:** arslan.nur.ayse@gmail.com  
 
 
-📍 Selçuklu / Konya, Türkiye
+
 
 ---
 
